@@ -2,7 +2,7 @@
 
 # Divya Dwivedi
 
-### Software Engineer | Machine Learning Researcher | Competitive Programmer
+### Computer Science & Data Science Student | ML Research | Software Development | Competitive Programming
 
 **Building intelligent systems through software engineering, machine learning, and research.**
 
