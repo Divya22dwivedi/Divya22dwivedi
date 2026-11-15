@@ -26,7 +26,7 @@ I'm a Computer Science and Data Science undergraduate at **Indian Institute of T
 
 My experience spans machine learning research, backend development, full-stack applications, and competitive programming.
 
-- 🎓 BSc in Computer Science and Data Science — IIT Patna (2024–2028)
+- 🎓 BS in Computer Science and Data Science — IIT Patna (2024–2028)
 - 🔬 Former Machine Learning Research Intern at NIT Rourkela
 - 🤖 Interested in Machine Learning, Deep Learning and Agentic AI
 - 💻 Strong foundation in Data Structures and Algorithms
