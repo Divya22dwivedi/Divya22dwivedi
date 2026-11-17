@@ -1,4 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=200&section=header&text=Divya%20Dwivedi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+<p align="center">
+  <b>🎓 Indian Institute of Technology, Patna (IIT Patna)</b>
+</p>
 
 <h3 align="center">Computer Science & Data Science | ML Research | Software Development</h3>
 
